@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hung Duong</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
+<h3 align="center">A passionate Web developer from Canada</h3>
 
 - 🔭 I’m currently working on the remake of http://www.oromedontecc.com/ 
   Mockup version: [Oro-Medonte Chamber of Commerce & Tourism](https://oro-medonte-91faf1.ingress-earth.easywp.com/)
