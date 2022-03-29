@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hung Duong</h1>
 <h3 align="center">A passionate Web developer from Canada</h3>
 
-- 🔭 I’m currently working on the remake of http://www.oromedontecc.com/ 
-  Mockup version: [Oro-Medonte Chamber of Commerce & Tourism](https://oro-medonte-91faf1.ingress-earth.easywp.com/)
+- 🔭 I’m currently working as Front-End Developer at Kleurvision Inc:
+  + Working with React for Front-End.
+  + Working with Python Framework - Flask for Back-End 
 
 - 👨‍💻 All of my projects are available at [https://hungduong.net/](https://hungduong.net/)
 
