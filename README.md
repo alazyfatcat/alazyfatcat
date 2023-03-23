@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hung Duong</h1>
-<h3 align="center">A passionate Web developer from Canada</h3>
+<h3 align="center">A passionate Salesforce Developer</h3>
 
-- 🔭 I’m currently working as Front-End Developer at Kleurvision Inc:
+- 🔭 I used to work as Front-End Developer at Kleurvision Inc:
   + Working with React for Front-End.
   + Working with Python Framework - Flask for Back-End 
+
+- Now I do Salesforce.  
 
 - 👨‍💻 All of my projects are available at [https://hungduong.net/](https://hungduong.net/)
 
