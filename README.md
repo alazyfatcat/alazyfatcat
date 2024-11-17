@@ -7,7 +7,7 @@
 
 - Now I do Salesforce.  
 
-- 👨‍💻 All of my projects are available at [https://hungduong.net/](https://hungduong.net/)
+- 👨‍💻 Check out my trailblazer profile at [https://www.salesforce.com/trailblazer/alazyfatcat](https://www.salesforce.com/trailblazer/alazyfatcat)
 
 - 📫 How to reach me **hungduong.devjs@gmail.com**
 
