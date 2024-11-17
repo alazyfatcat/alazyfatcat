@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hung Duong</h1>
 <h3 align="center">A passionate Salesforce Developer</h3>
 
-- 🔭 I used to work as Front-End Developer at Kleurvision Inc:
-  + Working with React for Front-End.
-  + Working with Python Framework - Flask for Back-End 
-
-- Now I do Salesforce.  
+I do Salesforce.  
 
 - 👨‍💻 Check out my trailblazer profile at [https://www.salesforce.com/trailblazer/alazyfatcat](https://www.salesforce.com/trailblazer/alazyfatcat)
 
